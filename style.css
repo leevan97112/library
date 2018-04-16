@@ -1,0 +1,16 @@
+body{
+	background-color: yellow;
+	text-align: center;
+	color: red;
+}
+.title{
+	background-color: blue;
+	color: white;
+}
+.connected{
+	background-image: url(https://unsplash.com/photos/EpdxJcu_13A);
+	background-repeat: no-repeat;
+}
+.welcome{
+	color: blue;
+}
